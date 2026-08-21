@@ -19,6 +19,11 @@ $\color{#8EDEEA}{\textsf{𝙏𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙞𝙨 𝙣𝙚
     <img src="84df4ccfe81bf5404a2ce6f99b3f1a66.gif" width="500"/>
 </div>
 
+<div align="left">
+    <img src="1000762832.png" width="100"/>
+</div>
+
+
 $\color{#608BC1}{\textsf{𝐵𝓊𝓉 𝒾'𝓁𝓁 𝓉𝓇𝓎, 𝓌𝒾𝓉𝒽𝑜𝓊𝓉 𝒻𝑒𝒶𝓇, 𝓉𝑜 𝒶𝒸𝒽𝒾𝑒𝓋𝑒 𝓂𝓎 𝒹𝓇𝑒𝒶𝓂𝓈 . . .}}$
 
 <div align="center">
