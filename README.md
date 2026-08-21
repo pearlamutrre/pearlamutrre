@@ -18,6 +18,11 @@ $\color{#2CAE98}{\textsf{𝘏𝘦𝘭𝘭𝘰-𝘩𝘪.ᐟ 𝘐𝘵'𝘴 𝘱�
     <img src="91b7a38b5f18cea70c20ae0e1d3a2fe6.gif" width="500"/>
 </div>
 
+<div align="center">
+    <img src="1000762845.png" width="600"/>
+</div>
+
+
 $\color{#8EDEEA}{\textsf{𝙏𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙞𝙨 𝙣𝙚𝙖𝙧. 𝙐𝙣𝙠𝙣𝙤𝙬, 𝙙𝙞𝙛𝙛𝙞𝙘𝙪𝙡𝙩. 𝘼𝙣𝙙 𝙩𝙝𝙖𝙩'𝙨 𝙬𝙝𝙖𝙩 𝙨𝙘𝙖𝙧𝙚𝙨 𝙢𝙚 𝙈𝙊𝙎𝙏.𓂃᭡}}$
 
 <div align="center">
