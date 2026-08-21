@@ -1,4 +1,9 @@
 <div align="center">
+    <img src="1000762822.png" width="500"/>
+</div>
+
+
+<div align="center">
     <img src="b1ac3b09c113e3b1ce63a6b9df1092cb.jpg" width="500"/>
 </div>
 
@@ -15,3 +20,8 @@ $\color{#8EDEEA}{\textsf{𝙏𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙞𝙨 𝙣𝙚
 </div>
 
 $\color{#608BC1}{\textsf{𝐵𝓊𝓉 𝒾'𝓁𝓁 𝓉𝓇𝓎, 𝓌𝒾𝓉𝒽𝑜𝓊𝓉 𝒻𝑒𝒶𝓇, 𝓉𝑜 𝒶𝒸𝒽𝒾𝑒𝓋𝑒 𝓂𝓎 𝒹𝓇𝑒𝒶𝓂𝓈 . . .}}$
+
+<div align="center">
+    <img src="1000762826.png" width="500"/>
+</div>
+
