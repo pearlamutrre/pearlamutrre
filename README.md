@@ -7,6 +7,11 @@
     <img src="b1ac3b09c113e3b1ce63a6b9df1092cb.jpg" width="500"/>
 </div>
 
+<div align="right">
+    <img src="1000762837.png" width="100"/>
+</div>
+
+
 $\color{#2CAE98}{\textsf{𝘏𝘦𝘭𝘭𝘰-𝘩𝘪.ᐟ 𝘐𝘵'𝘴 𝘱𝘦𝘢𝘳𝘭𝘢𝘮𝘶𝘵𝘳𝘳𝘦, 𝘰𝘳 𝘋𝘪𝘯𝘢.}}$
 
 <div align="center">
