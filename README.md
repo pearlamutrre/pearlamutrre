@@ -12,7 +12,7 @@
 </div>
 
 
-$\color{#2CAE98}{\textsf{𝘏𝘦𝘭𝘭𝘰-𝘩𝘪.ᐟ 𝘐𝘵'𝘴 𝘱𝘦𝘢𝘳𝘭𝘢𝘮𝘶𝘵𝘳𝘳𝘦, 𝘰𝘳 𝘋𝘪𝘯𝘢.}}$
+$\color{#2CAE98}{\textsf{𝘏𝘦𝘭𝘭𝘰-𝘩𝘪.ᐟ 𝘐𝘵'𝘴 𝘱𝘦𝘢𝘳𝘭𝘢𝘮𝘶𝘵𝘳𝘳𝘦, 𝘰𝘳 𝘋𝘪𝘯𝘢. I'm 14 y.o <<12.09>>.}}$
 
 <div align="center">
     <img src="91b7a38b5f18cea70c20ae0e1d3a2fe6.gif" width="500"/>
