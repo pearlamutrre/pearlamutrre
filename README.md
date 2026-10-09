@@ -37,13 +37,6 @@
 𝐵𝓊𝓉 𝒾'𝓁𝓁 𝓉𝓇𝓎, 𝓌𝒾𝓉𝒽𝑜𝓊𝓉 𝒻𝑒𝒶𝓇, 𝓉𝑜 𝒶𝒸𝒽𝒾𝑒𝓋𝑒 𝓂𝓎 𝒹𝓇𝑒𝒶𝓂𝓈 . . .
 
 
-
-<div align="center">
-    <img src="Без названия911_20261009172436.png"
-width="2000"/>
-</div>
-
-
 <div align="center">
     <img src="ezgif-77d33d6268c101ae.gif" width="500"/>
 </div>
