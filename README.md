@@ -14,6 +14,11 @@
 
 𝘏𝘦𝘭𝘭𝘰-𝘩𝘪.ᐟ 𝘐𝘵'𝘴 𝘱𝘦𝘢𝘳𝘭𝘢𝘮𝘶𝘵𝘳𝘳𝘦, 𝘰𝘳 𝘋𝘪𝘯𝘢.
 
+<div align="left">
+    <img src="Без названия912_20261009203954.png"
+width="500/">
+</div>
+
 <div align="center">
     <img src="91b7a38b5f18cea70c20ae0e1d3a2fe6.gif" width="500"/>
 </div>
